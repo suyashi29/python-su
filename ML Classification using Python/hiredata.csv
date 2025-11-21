@@ -1,0 +1,1201 @@
+YearsExperience,EducationLevel,SkillsScore,CertificationCount,Hired
+6,High School,88,0,0
+3,High School,50,3,0
+12,PhD,78,2,1
+14,Post-Graduate,63,3,1
+10,High School,99,3,1
+7,Post-Graduate,85,7,1
+12,Diploma,58,1,0
+4,Graduate,43,0,0
+6,High School,65,4,1
+9,PhD,77,5,1
+2,Diploma,81,5,0
+6,Post-Graduate,71,0,0
+10,Diploma,78,7,1
+10,High School,84,6,1
+7,Post-Graduate,85,6,1
+4,Graduate,75,6,1
+3,Diploma,79,7,0
+7,High School,76,4,1
+7,PhD,72,5,1
+2,Post-Graduate,75,0,0
+5,Diploma,42,7,0
+4,Diploma,48,5,0
+1,Graduate,47,3,0
+7,Graduate,72,2,0
+11,PhD,98,2,1
+13,PhD,45,7,0
+5,High School,80,5,1
+1,High School,78,1,0
+11,PhD,43,4,0
+4,PhD,52,6,1
+0,Post-Graduate,88,4,0
+11,Graduate,99,4,1
+9,High School,41,7,0
+5,Graduate,99,3,1
+12,Graduate,44,4,1
+11,PhD,83,2,1
+8,Post-Graduate,66,3,0
+0,Diploma,71,0,0
+10,Post-Graduate,60,4,0
+10,Post-Graduate,47,4,0
+14,Graduate,77,0,0
+9,Post-Graduate,47,4,1
+11,High School,89,0,0
+11,Graduate,42,3,0
+14,High School,93,2,1
+13,Diploma,83,0,0
+13,Graduate,97,1,1
+14,Diploma,42,7,0
+13,Graduate,61,7,1
+2,PhD,45,0,0
+11,Post-Graduate,41,7,0
+6,PhD,62,4,1
+3,Diploma,83,6,0
+8,Post-Graduate,41,6,0
+2,Graduate,77,7,0
+4,Post-Graduate,56,3,0
+2,High School,74,5,0
+6,Post-Graduate,73,3,1
+4,High School,62,5,1
+8,Post-Graduate,69,6,1
+6,High School,91,6,1
+1,Diploma,47,0,0
+3,PhD,61,2,0
+8,Graduate,83,1,1
+11,Post-Graduate,97,3,1
+13,PhD,75,4,1
+1,Graduate,44,5,1
+9,Graduate,52,7,0
+8,High School,68,4,1
+9,Diploma,70,2,1
+4,Diploma,86,5,1
+1,PhD,96,3,0
+3,Diploma,94,0,0
+11,Post-Graduate,55,4,0
+14,Diploma,81,2,1
+11,PhD,69,3,1
+6,Diploma,96,6,1
+11,Post-Graduate,94,6,1
+12,High School,55,3,0
+7,PhD,51,3,0
+14,High School,56,3,0
+2,High School,55,5,0
+13,High School,51,3,0
+0,Graduate,47,4,0
+3,Graduate,59,2,0
+1,High School,42,5,0
+7,PhD,55,3,0
+3,Post-Graduate,69,1,0
+1,Post-Graduate,84,7,0
+13,Diploma,62,1,1
+5,PhD,67,2,1
+5,Graduate,90,6,1
+9,High School,79,0,0
+3,Diploma,93,0,0
+5,Post-Graduate,44,7,0
+12,Graduate,59,6,0
+14,Graduate,79,5,1
+1,High School,95,5,0
+9,Post-Graduate,83,5,1
+11,PhD,40,0,0
+1,Graduate,96,1,0
+9,High School,69,0,1
+13,PhD,60,4,0
+3,Post-Graduate,59,3,0
+13,Graduate,45,5,0
+14,PhD,61,1,1
+14,PhD,57,2,1
+7,PhD,47,7,0
+13,Graduate,78,2,1
+6,Graduate,71,3,1
+11,Diploma,72,1,1
+8,Post-Graduate,92,0,0
+13,High School,55,0,0
+7,PhD,51,4,0
+4,Diploma,77,4,1
+12,High School,91,0,0
+1,Diploma,73,2,0
+14,Graduate,53,7,0
+4,PhD,75,5,1
+7,High School,72,2,1
+9,High School,62,7,1
+8,High School,89,4,1
+11,High School,84,3,1
+11,High School,41,7,0
+11,Diploma,80,0,0
+12,PhD,60,4,0
+8,Graduate,41,4,0
+12,Graduate,66,5,1
+14,Graduate,96,0,0
+12,Graduate,48,5,0
+0,Diploma,40,0,0
+8,Post-Graduate,50,5,0
+6,PhD,42,7,0
+8,High School,91,2,1
+7,Post-Graduate,62,3,1
+0,Graduate,65,3,0
+11,Post-Graduate,43,0,0
+7,PhD,57,1,0
+7,High School,94,6,1
+14,High School,45,4,0
+10,PhD,74,4,1
+2,PhD,61,0,0
+0,Graduate,82,7,0
+7,High School,54,5,0
+2,Post-Graduate,61,1,0
+2,Diploma,99,2,0
+0,Diploma,76,5,0
+10,PhD,91,5,1
+4,Graduate,81,0,0
+9,Diploma,51,0,0
+6,High School,86,7,1
+9,PhD,88,4,1
+8,Post-Graduate,81,0,0
+11,PhD,77,0,0
+6,Post-Graduate,57,0,0
+8,PhD,84,7,1
+7,PhD,74,4,1
+11,PhD,69,2,0
+1,Post-Graduate,63,2,1
+0,Post-Graduate,81,6,1
+6,PhD,69,6,1
+6,Diploma,53,0,0
+13,Graduate,45,6,0
+7,Graduate,42,4,0
+4,Graduate,55,7,0
+2,Post-Graduate,46,2,0
+11,Post-Graduate,91,5,1
+7,Diploma,53,2,0
+5,Graduate,48,2,0
+10,Graduate,54,4,0
+2,PhD,60,6,0
+0,Post-Graduate,74,5,0
+2,Graduate,41,4,0
+4,Diploma,66,0,1
+14,Diploma,41,7,0
+13,Graduate,74,3,1
+2,Post-Graduate,57,2,0
+0,Diploma,53,3,0
+4,PhD,59,7,0
+9,Diploma,57,7,0
+6,High School,49,4,0
+14,High School,64,4,1
+13,Post-Graduate,41,4,0
+6,Graduate,64,3,1
+10,Post-Graduate,93,4,1
+8,Post-Graduate,72,7,1
+14,Post-Graduate,75,0,0
+14,Post-Graduate,70,4,1
+9,PhD,53,1,0
+9,PhD,40,6,0
+11,Diploma,85,3,1
+12,High School,55,1,0
+2,Post-Graduate,93,4,0
+14,Diploma,85,7,1
+6,High School,91,0,0
+0,Graduate,42,2,0
+3,PhD,74,5,0
+12,High School,80,6,1
+3,Graduate,45,5,0
+13,High School,64,4,1
+4,PhD,52,6,0
+6,PhD,92,6,1
+6,Diploma,73,0,0
+12,Post-Graduate,47,6,0
+14,High School,60,3,0
+10,High School,73,1,1
+12,Graduate,43,1,0
+3,PhD,64,1,0
+12,High School,54,3,0
+6,PhD,43,5,0
+10,High School,84,0,0
+2,Diploma,99,6,0
+5,Post-Graduate,51,3,0
+11,High School,71,1,1
+1,PhD,71,4,0
+9,Diploma,67,2,1
+12,High School,52,6,0
+13,Graduate,70,3,1
+8,Post-Graduate,53,7,0
+4,High School,59,3,0
+5,Diploma,57,0,0
+11,Graduate,68,0,0
+11,Diploma,99,3,1
+11,Diploma,45,1,0
+11,Graduate,71,2,0
+3,Diploma,68,6,1
+13,Graduate,82,0,0
+13,High School,41,6,1
+10,Graduate,99,1,1
+9,Graduate,62,6,1
+6,Post-Graduate,58,4,0
+11,Graduate,70,0,0
+8,Graduate,90,1,1
+6,High School,44,1,0
+13,Post-Graduate,58,2,0
+0,PhD,73,2,0
+0,High School,49,4,0
+8,High School,64,1,1
+10,PhD,41,5,0
+13,Graduate,50,1,0
+8,Diploma,89,2,1
+3,Post-Graduate,70,5,0
+12,Diploma,95,0,0
+8,PhD,54,0,1
+2,High School,48,6,0
+6,High School,62,3,1
+5,Post-Graduate,58,2,0
+7,High School,48,3,0
+10,High School,74,5,0
+8,Post-Graduate,60,2,0
+13,Post-Graduate,48,4,0
+4,PhD,67,1,1
+0,High School,85,4,0
+2,High School,90,5,0
+9,PhD,46,2,0
+11,Graduate,55,7,0
+7,Graduate,55,5,0
+14,Graduate,99,7,1
+10,PhD,72,1,1
+5,High School,43,0,0
+7,PhD,43,0,0
+8,PhD,78,5,1
+3,Graduate,79,3,0
+0,Diploma,56,2,0
+13,High School,76,2,1
+0,Graduate,78,0,0
+9,Diploma,99,6,1
+3,Diploma,91,4,0
+11,Post-Graduate,68,6,1
+13,High School,91,1,1
+6,Diploma,75,4,1
+1,Graduate,99,4,0
+2,Post-Graduate,77,5,0
+0,High School,78,0,0
+4,PhD,89,6,1
+0,Graduate,76,6,0
+7,Diploma,91,0,0
+0,Diploma,74,6,0
+10,Graduate,46,7,0
+0,Diploma,66,0,0
+1,Post-Graduate,67,5,0
+1,High School,61,3,0
+11,Post-Graduate,53,4,0
+5,Diploma,46,5,0
+6,PhD,76,2,1
+4,High School,61,1,1
+0,High School,44,3,0
+0,Graduate,94,2,0
+2,Graduate,41,4,0
+13,PhD,66,6,1
+1,High School,60,0,0
+4,PhD,93,4,1
+11,Graduate,77,5,1
+9,Graduate,54,1,0
+5,High School,60,5,0
+6,Post-Graduate,49,3,0
+3,Diploma,62,3,1
+6,Graduate,97,1,1
+10,Graduate,95,7,1
+7,Post-Graduate,78,2,1
+10,Post-Graduate,44,2,0
+0,PhD,40,3,0
+14,PhD,52,3,0
+5,Diploma,60,6,0
+7,Diploma,65,0,0
+4,High School,89,6,1
+3,PhD,84,6,0
+1,Graduate,60,7,0
+5,PhD,92,2,1
+5,Graduate,57,7,0
+10,Post-Graduate,76,7,1
+14,PhD,84,1,1
+0,Post-Graduate,71,2,0
+8,Diploma,75,0,0
+11,Diploma,56,5,0
+10,High School,74,3,1
+5,PhD,88,3,1
+12,Post-Graduate,99,0,0
+2,Graduate,50,7,0
+3,Diploma,60,6,1
+11,Diploma,91,1,1
+10,Graduate,94,7,1
+3,Post-Graduate,92,3,0
+2,Post-Graduate,65,4,0
+9,PhD,43,6,0
+2,PhD,73,3,0
+14,High School,91,4,1
+2,Diploma,87,7,0
+3,PhD,99,0,0
+6,Post-Graduate,57,0,0
+3,Graduate,79,6,0
+8,Post-Graduate,74,3,1
+0,Diploma,80,2,0
+7,Post-Graduate,68,4,0
+6,High School,91,1,1
+1,Diploma,68,3,0
+7,Graduate,77,1,1
+0,High School,81,3,0
+10,Diploma,60,2,0
+11,Graduate,81,2,1
+8,High School,52,6,0
+8,High School,88,6,1
+1,Diploma,80,2,0
+6,PhD,56,5,0
+14,High School,95,2,1
+13,High School,48,0,0
+9,Graduate,80,0,0
+2,Post-Graduate,40,5,0
+6,Diploma,41,7,0
+11,Diploma,99,4,1
+9,PhD,87,7,1
+8,PhD,68,1,1
+3,Diploma,72,7,0
+11,PhD,49,3,0
+0,Graduate,89,7,0
+1,Diploma,97,3,0
+0,PhD,99,5,0
+13,Diploma,79,0,0
+11,Post-Graduate,60,6,0
+4,High School,67,3,1
+4,Diploma,50,0,0
+10,High School,94,4,1
+6,PhD,73,1,1
+8,High School,47,4,0
+8,Diploma,98,5,1
+2,Post-Graduate,61,7,0
+2,PhD,47,7,0
+2,Diploma,88,2,0
+3,PhD,54,2,0
+7,Graduate,56,2,0
+5,High School,99,4,1
+7,Graduate,62,3,1
+0,Diploma,63,1,1
+7,Post-Graduate,84,2,1
+3,PhD,58,5,0
+10,High School,44,5,0
+0,PhD,71,2,0
+7,Diploma,83,7,1
+3,PhD,40,2,0
+5,High School,62,1,1
+7,Diploma,76,2,1
+3,PhD,47,1,0
+13,Post-Graduate,52,5,0
+2,Diploma,47,2,0
+13,Diploma,96,4,1
+8,Post-Graduate,62,6,1
+2,Graduate,82,4,0
+8,High School,40,5,0
+12,Graduate,84,1,1
+1,PhD,90,4,0
+13,Post-Graduate,63,1,1
+1,Graduate,74,4,0
+1,Diploma,63,4,1
+5,PhD,56,1,1
+2,PhD,44,3,0
+12,Graduate,59,4,0
+8,Graduate,60,2,0
+3,Post-Graduate,79,6,0
+0,High School,97,5,0
+3,Graduate,70,3,0
+0,Graduate,85,1,0
+13,Diploma,75,3,1
+4,PhD,50,0,0
+3,High School,91,0,0
+7,Diploma,54,4,0
+7,Post-Graduate,58,4,0
+6,Post-Graduate,46,2,0
+2,Graduate,90,6,1
+0,Graduate,67,5,0
+0,Post-Graduate,90,3,0
+11,Graduate,82,0,0
+10,High School,97,4,1
+2,Graduate,44,7,0
+5,PhD,44,7,0
+6,Graduate,69,5,1
+5,Diploma,93,3,1
+13,High School,71,4,1
+13,Diploma,47,4,0
+5,Diploma,49,0,0
+5,PhD,77,0,0
+12,High School,86,4,1
+2,High School,71,1,1
+5,High School,87,4,1
+7,High School,67,5,1
+10,High School,56,4,0
+10,PhD,70,2,1
+1,Graduate,47,6,0
+4,Diploma,79,2,1
+13,High School,64,2,1
+0,Graduate,48,1,0
+11,Graduate,41,1,1
+14,Diploma,54,7,0
+0,PhD,89,4,0
+4,Post-Graduate,42,2,0
+11,Post-Graduate,88,1,1
+12,Graduate,75,0,0
+2,Diploma,43,4,0
+3,Post-Graduate,53,5,0
+2,Graduate,80,6,0
+0,PhD,80,3,0
+0,Post-Graduate,64,4,0
+11,Graduate,97,3,1
+11,Graduate,94,2,1
+13,High School,89,6,1
+12,PhD,49,3,0
+13,High School,60,2,0
+4,Diploma,75,0,0
+5,High School,51,3,0
+2,High School,66,6,0
+11,Post-Graduate,79,7,1
+8,Graduate,41,4,0
+4,PhD,93,2,1
+7,High School,52,4,0
+12,PhD,92,6,1
+0,High School,71,1,0
+13,Diploma,70,2,1
+4,High School,55,3,0
+14,Post-Graduate,71,2,1
+2,Graduate,71,4,0
+11,Diploma,99,0,0
+0,High School,73,2,0
+3,PhD,50,3,0
+14,Diploma,49,1,0
+12,Diploma,54,7,0
+4,High School,56,5,0
+6,Diploma,79,0,0
+0,PhD,57,7,0
+2,Diploma,94,1,0
+1,PhD,48,2,0
+8,High School,64,4,1
+9,Graduate,79,6,1
+14,Diploma,98,4,1
+5,Graduate,53,7,0
+9,PhD,99,3,1
+2,Diploma,97,4,0
+7,Post-Graduate,64,0,0
+13,Graduate,89,4,1
+7,Diploma,61,3,1
+1,Graduate,91,5,0
+14,Diploma,69,2,1
+5,High School,59,6,0
+6,Graduate,60,7,0
+1,Post-Graduate,83,2,0
+14,Post-Graduate,71,4,1
+10,PhD,90,1,1
+9,Diploma,85,2,1
+1,Graduate,88,5,0
+9,PhD,95,4,1
+0,Graduate,60,6,0
+7,Diploma,74,3,1
+0,Post-Graduate,97,5,0
+8,High School,71,4,1
+10,Post-Graduate,69,5,1
+5,PhD,94,2,1
+6,High School,78,6,1
+12,PhD,88,3,1
+9,Diploma,51,4,1
+6,High School,80,0,1
+9,PhD,86,7,1
+2,Diploma,57,3,0
+1,Post-Graduate,60,0,0
+8,Diploma,52,5,0
+7,Graduate,60,1,0
+12,Diploma,47,3,0
+11,Diploma,85,5,1
+9,Graduate,79,0,0
+6,PhD,85,2,1
+8,PhD,46,2,0
+3,Diploma,62,1,0
+12,Graduate,83,7,1
+3,Graduate,71,3,0
+0,Post-Graduate,50,3,0
+7,PhD,61,3,1
+13,High School,61,7,1
+13,PhD,82,5,0
+11,PhD,64,6,1
+2,Post-Graduate,61,6,0
+6,High School,67,1,1
+14,Post-Graduate,68,3,1
+11,High School,52,5,0
+1,Diploma,57,2,0
+1,High School,41,0,1
+6,Post-Graduate,68,5,1
+14,PhD,60,7,0
+5,High School,54,6,0
+2,High School,91,6,0
+8,Graduate,66,2,0
+9,PhD,89,2,1
+14,Diploma,70,7,1
+13,Post-Graduate,54,0,0
+12,Diploma,90,2,0
+5,PhD,62,1,1
+9,High School,63,0,0
+9,High School,83,2,1
+5,PhD,52,4,0
+0,High School,61,5,0
+3,High School,82,2,0
+9,High School,76,1,1
+5,Post-Graduate,72,3,1
+14,Post-Graduate,95,2,1
+5,Graduate,42,6,0
+10,Diploma,93,6,1
+11,PhD,58,6,0
+4,PhD,62,3,1
+0,PhD,68,6,0
+7,Graduate,69,4,1
+4,Post-Graduate,78,2,1
+11,Graduate,83,7,1
+11,PhD,86,6,1
+11,Diploma,64,0,0
+4,High School,76,7,1
+6,Post-Graduate,86,3,1
+3,Post-Graduate,47,4,0
+5,Graduate,81,0,0
+12,Post-Graduate,97,0,0
+3,PhD,55,0,0
+13,PhD,47,0,0
+14,Graduate,40,7,0
+2,PhD,83,7,0
+6,Diploma,44,2,0
+7,Graduate,42,6,0
+3,Diploma,40,5,0
+12,High School,43,2,0
+1,Diploma,79,2,0
+11,High School,74,4,1
+9,High School,71,4,1
+13,Diploma,81,6,1
+2,Graduate,73,5,0
+0,PhD,82,4,0
+7,PhD,64,6,1
+14,High School,49,6,0
+2,High School,60,7,0
+11,Graduate,85,1,1
+9,Post-Graduate,78,7,1
+6,Diploma,66,5,1
+9,High School,66,4,1
+4,PhD,41,5,0
+9,Graduate,80,2,1
+4,Diploma,87,2,1
+13,Graduate,52,5,0
+6,Diploma,48,1,0
+14,Diploma,91,1,1
+8,High School,75,7,1
+11,Graduate,61,5,1
+4,Graduate,81,4,1
+0,PhD,65,7,0
+9,PhD,97,3,1
+9,High School,93,1,1
+0,High School,51,0,0
+14,Post-Graduate,56,7,0
+1,PhD,53,2,0
+13,Diploma,53,7,0
+5,Graduate,96,5,1
+8,High School,73,0,0
+7,Graduate,92,5,1
+12,Graduate,96,6,1
+4,Post-Graduate,59,2,0
+0,PhD,50,2,0
+12,High School,55,1,0
+6,Graduate,90,7,1
+14,High School,70,1,1
+4,Diploma,94,0,0
+5,Post-Graduate,45,7,0
+12,Diploma,95,6,1
+6,High School,58,5,0
+2,High School,76,6,0
+11,PhD,97,2,1
+9,Graduate,43,0,0
+2,Graduate,86,3,1
+4,Diploma,43,0,0
+5,Post-Graduate,59,4,0
+8,Graduate,49,0,0
+12,PhD,63,6,1
+13,Diploma,93,4,1
+11,Diploma,74,4,1
+4,PhD,65,7,1
+14,Post-Graduate,76,7,1
+0,PhD,77,4,0
+13,Post-Graduate,60,3,0
+13,PhD,93,7,1
+13,PhD,79,0,0
+3,High School,78,6,0
+4,Diploma,60,0,0
+11,PhD,49,3,0
+9,PhD,77,2,0
+9,Graduate,85,1,1
+4,Diploma,43,6,0
+6,Graduate,99,7,1
+3,Diploma,96,6,0
+0,Graduate,84,0,0
+13,PhD,59,1,0
+13,PhD,56,5,0
+4,High School,94,5,1
+6,Graduate,46,7,0
+9,Post-Graduate,43,3,1
+9,High School,68,5,1
+5,Graduate,53,6,0
+4,Graduate,42,5,0
+3,High School,63,2,0
+1,PhD,76,2,0
+3,Graduate,55,7,1
+14,PhD,97,2,1
+9,High School,94,5,1
+9,PhD,91,3,1
+2,Diploma,43,4,0
+9,Post-Graduate,95,4,1
+0,Graduate,63,7,0
+7,Post-Graduate,73,1,1
+4,PhD,69,4,1
+12,Graduate,57,4,0
+3,PhD,58,2,0
+7,Diploma,70,2,1
+6,High School,99,5,1
+1,Graduate,99,7,0
+0,Diploma,58,1,0
+11,Diploma,88,7,1
+10,Graduate,85,0,0
+3,PhD,58,6,0
+7,Diploma,61,1,1
+11,Post-Graduate,63,1,1
+1,Diploma,84,3,0
+2,PhD,51,7,0
+11,PhD,69,5,1
+0,Post-Graduate,97,3,0
+0,Diploma,77,1,0
+12,PhD,92,1,1
+2,Graduate,70,1,0
+10,High School,75,4,1
+4,High School,58,7,0
+11,High School,87,6,1
+2,Diploma,84,6,0
+0,Post-Graduate,75,3,0
+0,PhD,69,1,0
+7,Graduate,94,6,1
+9,Graduate,88,2,1
+10,Diploma,94,7,1
+11,High School,72,6,1
+12,Diploma,57,5,1
+12,Post-Graduate,91,7,1
+11,Post-Graduate,88,5,1
+14,PhD,98,6,1
+13,PhD,67,2,1
+1,Post-Graduate,98,5,0
+12,Post-Graduate,86,4,1
+2,Post-Graduate,50,6,0
+1,Diploma,96,4,0
+2,Post-Graduate,99,6,0
+6,Graduate,93,0,0
+0,High School,84,0,0
+9,Post-Graduate,72,0,0
+7,High School,56,5,0
+12,Diploma,45,4,0
+9,High School,43,4,0
+9,Diploma,59,4,0
+9,Graduate,87,2,1
+13,Diploma,86,4,1
+1,Diploma,66,2,0
+2,PhD,54,0,0
+8,Post-Graduate,45,0,0
+6,Post-Graduate,86,5,1
+3,Graduate,53,6,0
+9,Graduate,99,0,0
+4,Post-Graduate,50,6,0
+1,PhD,78,6,0
+12,Post-Graduate,48,7,0
+10,PhD,65,5,1
+12,Graduate,55,1,0
+7,High School,44,1,0
+3,Graduate,96,3,0
+8,Graduate,91,7,1
+4,Diploma,49,5,0
+12,Diploma,89,3,1
+8,Diploma,42,3,0
+3,Diploma,52,7,0
+9,PhD,82,1,1
+4,Post-Graduate,88,5,1
+8,High School,69,1,1
+7,Graduate,93,3,1
+2,PhD,84,5,0
+0,High School,45,3,0
+2,PhD,56,4,0
+3,PhD,98,7,0
+1,Graduate,84,6,1
+0,Post-Graduate,90,5,0
+6,Diploma,92,5,1
+7,Post-Graduate,58,6,0
+6,Graduate,81,3,1
+13,Graduate,74,4,1
+4,Graduate,85,2,1
+11,High School,65,6,1
+0,Post-Graduate,90,7,0
+6,Post-Graduate,44,1,0
+12,PhD,68,3,1
+6,PhD,76,6,1
+8,PhD,59,6,0
+2,Graduate,88,5,0
+8,Post-Graduate,60,1,0
+13,Graduate,49,1,0
+0,High School,44,7,0
+0,PhD,75,1,0
+13,Graduate,45,6,0
+3,Graduate,65,2,0
+8,High School,43,0,1
+5,Diploma,78,3,1
+12,Post-Graduate,78,0,0
+10,Diploma,89,6,1
+2,PhD,74,0,0
+0,Graduate,40,6,0
+3,High School,63,0,0
+11,High School,96,1,1
+12,Post-Graduate,75,4,1
+8,Diploma,45,1,0
+2,Post-Graduate,80,1,0
+11,Graduate,93,7,1
+8,Post-Graduate,85,5,1
+6,High School,99,5,1
+11,High School,83,0,0
+13,PhD,99,6,1
+14,PhD,96,7,1
+3,Graduate,70,1,0
+2,Diploma,59,7,0
+9,Post-Graduate,63,0,0
+14,Graduate,64,5,1
+4,PhD,75,4,1
+4,Post-Graduate,60,3,0
+2,PhD,69,0,0
+11,Post-Graduate,63,7,1
+8,Diploma,83,4,1
+3,Graduate,81,3,0
+10,Post-Graduate,69,2,1
+4,High School,61,0,0
+3,High School,67,0,0
+4,Post-Graduate,46,2,0
+6,Post-Graduate,74,2,1
+8,Post-Graduate,94,0,0
+6,High School,67,2,1
+12,High School,53,1,0
+4,Post-Graduate,95,3,1
+9,PhD,49,3,0
+9,PhD,55,3,0
+6,Diploma,55,1,0
+13,Graduate,93,6,1
+14,PhD,70,2,1
+9,High School,81,4,1
+4,PhD,64,2,1
+2,Diploma,52,0,0
+6,Diploma,45,5,0
+12,Graduate,83,7,1
+10,PhD,48,7,0
+10,High School,84,3,1
+1,High School,75,2,0
+14,Post-Graduate,95,4,1
+11,High School,82,0,0
+8,Graduate,59,1,0
+9,Graduate,57,6,0
+9,High School,97,1,1
+11,High School,82,4,1
+0,Post-Graduate,96,0,0
+12,High School,60,3,0
+5,Post-Graduate,43,2,0
+6,Post-Graduate,89,0,0
+13,High School,72,7,1
+12,Diploma,66,6,1
+7,Diploma,46,1,0
+9,Post-Graduate,45,6,0
+8,High School,54,6,0
+1,Diploma,57,4,0
+10,High School,71,4,0
+9,High School,95,2,1
+1,High School,50,4,1
+4,PhD,59,4,0
+12,High School,63,0,0
+4,PhD,54,7,1
+5,Post-Graduate,87,3,1
+2,Diploma,46,2,0
+7,Diploma,60,0,0
+12,Diploma,81,3,1
+0,Diploma,65,6,0
+5,Diploma,83,0,0
+3,Diploma,95,5,0
+0,Diploma,53,0,0
+14,Post-Graduate,96,4,1
+6,High School,76,3,1
+8,Graduate,97,2,1
+12,PhD,60,2,0
+3,Graduate,57,3,0
+3,Graduate,44,4,0
+5,High School,42,1,1
+11,High School,62,0,0
+14,High School,65,4,1
+2,Diploma,76,5,0
+12,Post-Graduate,63,7,1
+11,Diploma,88,6,1
+5,Post-Graduate,58,3,0
+6,Post-Graduate,90,7,1
+10,Graduate,64,0,0
+9,Graduate,60,2,1
+9,Post-Graduate,51,6,0
+2,Post-Graduate,96,7,0
+6,Diploma,80,1,1
+13,Diploma,72,7,1
+2,Graduate,89,5,0
+12,High School,92,2,1
+12,Post-Graduate,43,3,0
+1,Diploma,81,0,0
+11,Graduate,96,3,1
+13,Diploma,46,6,0
+9,Post-Graduate,61,0,0
+3,Post-Graduate,94,4,0
+11,PhD,72,1,1
+7,High School,56,4,0
+12,PhD,63,4,1
+14,Graduate,73,3,1
+8,Diploma,67,6,1
+6,Graduate,97,1,0
+0,Post-Graduate,82,7,0
+2,PhD,80,0,0
+12,PhD,78,0,0
+11,PhD,61,5,1
+13,Graduate,88,2,1
+8,Post-Graduate,56,5,0
+14,Diploma,73,7,1
+11,Diploma,45,5,0
+0,Graduate,85,0,0
+8,PhD,45,3,0
+7,High School,73,4,0
+0,Graduate,40,6,1
+5,Graduate,49,4,0
+4,Post-Graduate,60,4,0
+5,Diploma,44,1,0
+9,Graduate,41,0,0
+11,Graduate,61,7,1
+12,PhD,87,7,1
+12,PhD,96,6,1
+12,High School,41,3,1
+14,Post-Graduate,49,1,0
+4,High School,73,2,1
+5,PhD,55,3,0
+4,Diploma,87,5,1
+10,PhD,90,3,1
+11,Post-Graduate,78,3,1
+4,PhD,61,4,1
+3,Post-Graduate,51,3,0
+2,Post-Graduate,63,7,0
+2,Post-Graduate,86,5,0
+3,Post-Graduate,79,5,0
+8,Post-Graduate,77,0,0
+1,Diploma,99,3,0
+14,High School,98,4,1
+8,Graduate,49,3,0
+0,High School,74,2,0
+13,Post-Graduate,90,2,1
+14,Diploma,88,4,1
+14,PhD,71,0,0
+0,Diploma,46,0,0
+4,Post-Graduate,60,5,0
+5,Diploma,59,5,1
+5,Diploma,65,1,1
+2,Post-Graduate,43,4,0
+6,Diploma,85,3,1
+8,Graduate,91,6,1
+10,Graduate,61,4,1
+11,Diploma,54,1,1
+9,PhD,95,5,0
+7,Post-Graduate,79,4,1
+5,Graduate,60,4,0
+11,PhD,54,5,0
+7,Diploma,61,7,1
+11,PhD,91,1,1
+4,High School,67,5,1
+7,Graduate,53,0,1
+9,Diploma,66,3,1
+11,Post-Graduate,80,5,1
+3,Diploma,79,1,0
+9,Post-Graduate,97,2,1
+7,Diploma,67,0,0
+9,PhD,65,2,1
+11,PhD,88,6,1
+1,PhD,41,5,0
+11,High School,64,0,0
+11,Post-Graduate,95,3,1
+4,PhD,42,5,0
+8,High School,47,3,1
+3,Post-Graduate,83,7,0
+10,Diploma,72,4,1
+5,High School,81,2,1
+14,Graduate,91,0,0
+0,High School,74,3,0
+8,High School,45,1,0
+0,Post-Graduate,78,3,0
+4,Diploma,91,1,1
+3,Graduate,62,5,0
+12,PhD,64,0,0
+11,PhD,98,3,1
+12,High School,89,6,1
+12,Post-Graduate,82,3,1
+13,Post-Graduate,58,7,0
+2,PhD,44,6,0
+12,Graduate,90,0,0
+5,Diploma,50,7,0
+1,Graduate,95,3,0
+2,Diploma,51,1,0
+4,PhD,49,3,1
+14,Diploma,47,2,0
+8,Post-Graduate,63,5,1
+1,High School,99,4,0
+9,High School,67,1,1
+7,PhD,80,2,1
+13,Post-Graduate,75,6,0
+1,Graduate,76,5,0
+10,Post-Graduate,60,0,0
+12,High School,47,1,0
+4,High School,94,4,1
+6,Post-Graduate,48,5,0
+7,Post-Graduate,86,6,1
+0,High School,54,7,0
+5,Graduate,87,7,0
+0,PhD,85,4,0
+1,PhD,79,0,0
+14,Post-Graduate,57,0,0
+0,PhD,81,6,0
+10,High School,99,1,0
+4,High School,59,6,0
+9,Post-Graduate,45,3,0
+14,Post-Graduate,51,0,0
+8,Post-Graduate,41,5,0
+5,Graduate,46,3,0
+10,PhD,55,7,0
+10,Post-Graduate,42,7,0
+0,Diploma,84,2,0
+12,Diploma,42,4,0
+0,High School,66,3,0
+1,PhD,89,4,0
+8,Post-Graduate,82,6,1
+2,Diploma,79,3,0
+14,PhD,77,6,1
+0,High School,72,2,0
+4,Graduate,67,0,0
+6,PhD,40,7,0
+5,PhD,94,2,1
+11,Graduate,47,7,0
+0,PhD,76,0,0
+4,High School,71,6,1
+14,High School,99,0,0
+4,Graduate,87,7,1
+5,Post-Graduate,82,7,1
+2,Diploma,76,4,0
+4,Post-Graduate,43,5,0
+6,PhD,69,2,1
+4,Diploma,45,3,0
+4,Graduate,85,7,1
+4,Graduate,93,2,1
+9,Diploma,58,4,0
+9,High School,71,0,0
+2,Diploma,48,4,0
+0,PhD,51,1,0
+4,High School,50,1,0
+13,Graduate,85,3,1
+8,Diploma,94,4,1
+13,Post-Graduate,55,6,0
+0,Post-Graduate,40,3,0
+2,PhD,84,6,0
+12,Post-Graduate,94,3,1
+12,Diploma,92,1,1
+3,Diploma,60,3,0
+13,Post-Graduate,69,1,1
+0,Diploma,52,7,0
+0,PhD,73,0,0
+7,High School,43,6,0
+1,PhD,67,4,0
+11,PhD,77,7,1
+14,Diploma,97,7,1
+7,High School,70,3,1
+6,Diploma,98,1,1
+9,Graduate,94,2,1
+9,Diploma,66,6,1
+1,Diploma,44,7,0
+5,Diploma,64,3,1
+5,High School,42,5,0
+2,Diploma,72,0,1
+10,High School,43,0,0
+1,Post-Graduate,64,2,0
+11,Graduate,59,1,0
+0,High School,73,3,0
+5,Post-Graduate,65,6,1
+11,High School,44,1,0
+4,High School,74,0,0
+13,Graduate,67,1,1
+13,PhD,68,0,0
+10,PhD,48,1,0
+8,High School,91,2,0
+0,Diploma,77,4,0
+14,Post-Graduate,89,2,1
+14,Diploma,45,2,0
+6,Diploma,58,4,0
+14,High School,99,4,1
+4,High School,83,7,1
+4,High School,96,7,1
+13,High School,50,3,0
+1,PhD,41,6,0
+10,High School,86,6,1
+2,PhD,83,3,0
+6,PhD,83,2,1
+5,High School,48,2,1
+11,Graduate,60,0,0
+1,Post-Graduate,63,0,0
+5,Diploma,73,6,1
+1,PhD,61,3,0
+1,Post-Graduate,42,5,0
+1,Graduate,51,7,0
+13,Diploma,67,5,1
+14,Diploma,69,3,1
+10,PhD,65,0,0
+2,High School,87,6,0
+14,Graduate,60,6,0
+1,PhD,67,0,0
+3,Graduate,95,5,0
+8,High School,65,1,1
+5,High School,72,1,1
+0,PhD,60,0,0
+7,High School,74,1,1
+14,Post-Graduate,91,4,1
+11,Diploma,73,3,1
+13,PhD,80,3,1
+6,Graduate,90,0,0
+9,Post-Graduate,86,2,1
+2,PhD,57,7,0
+0,High School,97,5,0
+4,High School,50,0,0
+12,High School,96,1,1
+3,High School,62,5,0
+9,Graduate,87,2,1
+7,Post-Graduate,61,1,1
+0,Diploma,56,6,1
+9,Graduate,44,7,0
+0,Graduate,83,4,0
+11,Diploma,50,1,0
+3,Diploma,69,4,0
+7,High School,54,5,0
+4,Graduate,66,4,1
+1,PhD,74,5,0
+5,Diploma,72,5,1
+4,Diploma,59,5,0
+1,Post-Graduate,55,5,0
+12,PhD,73,5,1
+13,PhD,41,1,0
+10,Diploma,74,5,1
+10,High School,79,1,0
+10,Post-Graduate,95,5,1
+2,PhD,67,4,0
+14,Diploma,86,6,1
+8,PhD,78,5,1
+6,Post-Graduate,45,2,0
+6,Post-Graduate,48,5,0
+14,Graduate,59,5,1
+10,Diploma,99,4,1
+5,Post-Graduate,40,7,0
+7,Graduate,47,3,0
+3,Graduate,94,4,0
+7,PhD,62,2,1
+3,PhD,42,3,0
+7,Graduate,43,0,0
+8,PhD,97,0,0
+2,Post-Graduate,64,7,0
+2,High School,86,2,0
+10,Post-Graduate,77,4,1
+12,Graduate,54,1,0
+1,Graduate,60,2,0
+12,Post-Graduate,74,6,1
+9,PhD,96,3,0
+2,PhD,92,3,0
+2,Graduate,92,5,0
+4,Diploma,85,0,0
+4,PhD,91,7,1
+1,Post-Graduate,53,3,0
+11,PhD,75,2,1
+9,Post-Graduate,51,3,0
+12,Graduate,56,7,0
+5,PhD,78,7,1
+4,Post-Graduate,48,7,0
+5,Graduate,74,2,1
+0,Diploma,99,1,0
+4,Post-Graduate,52,5,0
+8,Diploma,54,0,0
+11,Diploma,57,3,0
+9,High School,90,2,0
+13,PhD,72,4,1
+1,Post-Graduate,45,0,0
+0,Diploma,98,1,0
+13,High School,66,2,1
+9,Graduate,62,6,1
+12,Post-Graduate,98,6,1
+10,Diploma,66,5,1
+8,PhD,73,5,1
+9,High School,95,1,0
+8,Diploma,85,1,1
+14,PhD,77,5,1
+8,Diploma,53,3,0
+5,Post-Graduate,75,3,1
+14,Post-Graduate,92,2,1
+7,Post-Graduate,47,4,1
+13,High School,74,2,1
+10,Post-Graduate,58,4,0
+14,PhD,69,1,1
+12,Diploma,53,0,0
+0,Graduate,98,2,0
+9,PhD,59,2,0
+3,PhD,88,4,0
+0,Post-Graduate,64,7,0
+7,High School,79,1,1
+0,Diploma,63,1,0
+2,High School,53,6,1
+12,Diploma,65,7,1
+3,Diploma,77,4,0
+14,High School,62,1,1
+14,PhD,61,7,1
+14,Diploma,87,5,1
+7,High School,96,7,1
+5,Diploma,58,3,0
+13,Graduate,85,6,1
+9,PhD,90,5,1
+11,Post-Graduate,42,0,0
+6,Diploma,81,2,1
+13,Graduate,58,6,0
+7,Post-Graduate,48,0,0
+1,Post-Graduate,67,2,0
+12,Diploma,59,3,0
+9,High School,84,7,1
+13,Diploma,46,1,0
+10,Graduate,53,5,0
+7,Post-Graduate,48,4,0
+2,Diploma,98,5,0
+6,High School,99,3,1
+2,Diploma,94,0,0
+14,PhD,96,4,1
+6,High School,99,1,1
+13,Graduate,58,3,0
+10,Post-Graduate,86,4,1
+14,Diploma,91,3,1
+11,High School,53,7,0
+12,PhD,95,3,1
+1,High School,77,1,0
+9,PhD,92,6,1
+5,Graduate,75,2,1
+2,Post-Graduate,79,4,0
+2,Graduate,56,7,0
+14,Diploma,69,1,0
+8,High School,48,3,0
+6,PhD,72,7,1
+4,PhD,95,1,1
+11,High School,91,6,1
+9,High School,64,7,1
+6,Diploma,53,7,0
+8,Graduate,50,2,0
+0,PhD,92,5,0
+6,Diploma,74,4,1
+5,Graduate,80,2,1
+9,Diploma,98,0,0
+13,PhD,53,4,0
+11,High School,69,2,1
